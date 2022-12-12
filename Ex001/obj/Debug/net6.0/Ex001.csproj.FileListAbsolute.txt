@@ -1,0 +1,15 @@
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/bin/Debug/net6.0/Ex001
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/bin/Debug/net6.0/Ex001.deps.json
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/bin/Debug/net6.0/Ex001.runtimeconfig.json
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/bin/Debug/net6.0/Ex001.dll
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/bin/Debug/net6.0/Ex001.pdb
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/obj/Debug/net6.0/Ex001.csproj.AssemblyReference.cache
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/obj/Debug/net6.0/Ex001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfoInputs.cache
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfo.cs
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/obj/Debug/net6.0/Ex001.csproj.CoreCompileInputs.cache
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/obj/Debug/net6.0/Ex001.dll
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/obj/Debug/net6.0/refint/Ex001.dll
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/obj/Debug/net6.0/Ex001.pdb
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/obj/Debug/net6.0/Ex001.genruntimeconfig.cache
+/Users/vladimirskrypnikov/Desktop/Geekbrains/c_sharp_first_projects/Examples/Ex001/obj/Debug/net6.0/ref/Ex001.dll
