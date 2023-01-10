@@ -15,7 +15,7 @@ void PrintArray(int[] col)              //Выводим, с помощью VOID
     int position = 0;
     while(position < count)
     {
-        Console.WriteLine(col[position]);
+        Console.Write(col[position]);
         position++;
     }
 }
